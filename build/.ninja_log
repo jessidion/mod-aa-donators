@@ -1,0 +1,5 @@
+# ninja log v6
+26	172	8161670705581917	CMakeFiles/mod_aa_donators.dir/standalone/adapter.cpp.obj	4aecea93af10fa3b
+18	6342	8161670705506564	CMakeFiles/mod_aa_donators.dir/src/AA_DonatorScript.cpp.obj	35b062b21d4e945b
+6346	6730	8161670772311882	mod_aa_donators.dll	6e7cab815d3fe40c
+6346	6730	8161670772311882	mod_aa_donators.lib	6e7cab815d3fe40c
